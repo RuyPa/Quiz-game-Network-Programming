@@ -1,0 +1,3 @@
+userid,username,password,score,win,draw,lose,status
+1,duy,duy,5,5,0,2,0
+2,ruy,ruy,2,2,0,5,1
